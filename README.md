@@ -10,8 +10,8 @@ Subsequently, we will adopt and tailor selected recommender systems that align w
 
 ## Literature
 
-_to be done_
-_Reinforcement Learning and Ensemble Learning (e.g. Adaboost) should be considered_
+- _to be done_
+- _Reinforcement Learning and Ensemble Learning (e.g. Adaboost) should be considered_
 
 ## Timetable
 
@@ -26,8 +26,8 @@ _Reinforcement Learning and Ensemble Learning (e.g. Adaboost) should be consider
 | 20.11.2023 - 26.11.2023 | 🧠 Research Adaptive News Recommenders                        | -                 |
 | 27.11.2023 - 24.12.2023 | 🧑🏽‍💻 Implementation of 2-3 Adaptive News Recommenders (4 weeks) | -                 |
 | 25.12.2023 - 07.01.2024 | _Buffer_                                                      | -                 |
-| 08.01.2023 - 14.01.2024 | 🔋 Deployment of Adaptive News Recommenders                   | -                 |
-| 15.01.2024 - 19.01.2024 | ❓ User Study                                                 | Last Lecture Week |
+| 08.01.2023 - 14.01.2024 | 📦 Deployment of Adaptive News Recommenders                   | -                 |
+| 15.01.2024 - 19.01.2024 | 👥 User Study                                                 | Last Lecture Week |
 | 29.01.2024 - 04.02.2024 | 📏 Evaluation of the User Study                               | -                 |
 | 05.02.2024 - 17.03.2024 | 📝 Writing (6 weeks)                                          | -                 |
 | 18.03.2024 - 31.03.2024 | 📖 Proofreading (2 weeks)                                     | -                 |
