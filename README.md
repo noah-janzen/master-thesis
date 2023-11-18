@@ -2,33 +2,68 @@
 
 ## Abstract
 
-graphworks.ai, an innovative platform, leverages advanced Artificial Intelligence (AI) methodologies to analyze a multitude of news articles from the World Wide Web daily, aiming to unveil insights into supply chain risks and sales opportunities. However, the increasing flow of analyzed articles overwhelms users, causing issues like information and cognitive overload as they struggle to identify the most relevant articles that meet their specific needs.
+This master thesis aims to address the challenge of information overload experienced by users of graphworks.ai, a web application providing business insights through AI-analyzed news articles. The application is utilized by professional clients to identify sales chances as well as supply chain risks. However, the sheer volume of news articles in combination with the lack of a recommendation system makes it difficult for users to find content to the user's specific needs, thereby diminishing the overall effectiveness of the tool.
 
-In this thesis, our objective is to enhance the user experience on the graphworks.ai platform by implementing and evaluating existing state-of-the-art recommender systems from the literature. The initiative seeks to facilitate a more refined and user-focused presentation of articles, aiding users in easily discovering content that aligns with their interests and requirements. Initially, an in-depth review of current literature will be undertaken, complemented by an empirical analysis of various news platforms, to ascertain the most effective interface for capturing user feedback on suggested articles, such as through like and dislike buttons.
+The central objective of this thesis is to enhance the user experience on graphworks.ai by integrating an adaptive news recommender system. This system aims to
 
-Subsequently, we will adopt and tailor selected recommender systems that align with the identified interface, striving for an integration that amplifies the platform’s usability and user engagement. A comprehensive user study employing a between-subjects design will be carried out to gauge the effectiveness of the implemented recommender systems in improving user satisfaction and engagement. The study aims to unveil which recommender system best enhances the user’s ability to effortlessly and accurately select news articles that are most congruent with their individual preferences and needs.
+- enable users to discover content that aligns more closely with their interests,
+- incorporate features for users to provide both explicit and implicit feedback on the news articles suggested by the system,
+- and utilize this feedback dynamically to refine and personalize future recommendations, making the system adaptive and more user-centric.
 
-## Literature
+The thesis will undertake the following structured approach to achieve its objectives:
 
-- _to be done_
+1. **Literature Review and Empirical Analysis.** A review of current literature on adaptive recommender systems will be conducted, complemented by an empirical analysis of various news platforms. This phase will identify the most effective user interfaces for capturing feedback on suggested articles, such as like/dislike buttons.
+2. **System implementation.** Based on the findings from the literature review, state-of-the-art adaptive news recommender systems will be identified. The two most suitable systems, aligning with the established user feedback mechanism, will be implemented in graphworks.ai.
+3. **User Study and System Evaluation.** A user study employing a between-subjects design will be conducted to evaluate the effectiveness of the implemented recommender system. The study will focus on measuring usability using the System Usability Scale questionaire. Based on the results of this study, the best-performing recommender system will be selected for permanent implementation in graphworks.ai's productive environment, thereby improving the overall user experience and mitigating the overload issues.
+
+In conclusion, this thesis aims to enhance the utility of graphworks.ai by making it more responsive to individual user needs, thereby addressing the pressing issue of information overload.
+
+## Table of contents
+
+1. Introduction
+
+- Problem statement
+- Objectives
+- Thesis structure
+
+2. State of the art
+
+- Adaptive (news) recommender systems
+- Empirical analysis on feedback interfaces
+
+3. Implementation
+
+- graphwork.ai's software architecture
+- implementation of <algorithm 1>
+- implementation of <algorithm 2>
+
+4. Evaluation
+
+- Evaluation strategy
+- Evaluation results
+
+5. Conclusion
+
+## Important Literature
+
 - _Reinforcement Learning and Ensemble Learning (e.g. Adaboost) should be considered_
 
 ## Timetable
 
 - 20 weeks
-- start: 13.11.2023
-- end: 31.03.2024
+- start: 27.11.2023
+- end: 15.04.2024
 
-| When?                   | What?                                                         | Description       |
-| :---------------------- | :------------------------------------------------------------ | :---------------- |
-| 13.11.2023              | 🚀 Enrollment                                                 | -                 |
-| 13.11.2023 - 19.11.2023 | ✅ Research User Feedback Interface                           | -                 |
-| 20.11.2023 - 26.11.2023 | 🧠 Research Adaptive News Recommenders                        | -                 |
-| 27.11.2023 - 24.12.2023 | 🧑🏽‍💻 Implementation of 2-3 Adaptive News Recommenders (4 weeks) | -                 |
-| 25.12.2023 - 07.01.2024 | _Buffer_                                                      | -                 |
-| 08.01.2023 - 14.01.2024 | 📦 Deployment of Adaptive News Recommenders                   | -                 |
-| 15.01.2024 - 19.01.2024 | 👥 User Study                                                 | Last Lecture Week |
-| 29.01.2024 - 04.02.2024 | 📏 Evaluation of the User Study                               | -                 |
-| 05.02.2024 - 17.03.2024 | 📝 Writing (6 weeks)                                          | -                 |
-| 18.03.2024 - 31.03.2024 | 📖 Proofreading (2 weeks)                                     | -                 |
-| 31.03.2024              | 🏁 Submission                                                 | -                 |
+| When?                   | Duration | What?                                      | Description |
+| :---------------------- | -------: | :----------------------------------------- | :---------- |
+| 27.11.2023              |        - | 🚀 Enrollment                              | -           |
+| 27.11.2023 - 03.12.2023 |       1w | ✅ Research User Feedback Interface        | -           |
+| 04.12.2023 - 17.12.2023 |       2w | 🧠 Research Adaptive News Recommenders     | -           |
+| 18.12.2023 - 28.01.2023 |       6w | 🧑🏽‍💻 Implementation of two News Recommenders | -           |
+| 29.01.2023 - 04.02.2024 |       1w | 📦 Deployment                              | -           |
+| 05.02.2023 - 11.02.2024 |       1w | ⏳ _Buffer_                                | -           |
+| 12.02.2024 - 18.02.2024 |       1w | 👥 User Study                              | -           |
+| 19.02.2024 - 25.02.2024 |       1w | 📏 Evaluation of the User Study            | -           |
+| 26.02.2024 - 31.03.2024 |       5w | 📝 Writing                                 | -           |
+| 01.04.2024 - 15.04.2024 |       2w | 📖 Proofreading                            | -           |
+| 15.04.2024              |        - | 🏁 Submission                              | -           |
