@@ -31,22 +31,27 @@ In conclusion, this thesis aims to enhance the utility of graphworks.ai by makin
 - Adaptive (news) recommender systems
 - Empirical analysis on feedback interfaces
 
-3. Implementation
+3. Architecture
 
-- graphwork.ai's software architecture
-- implementation of <algorithm 1>
-- implementation of <algorithm 2>
+- graphwork.ai's current software architecture
+- Planned architecture to integrate recommender systems
 
-4. Evaluation
+4. Implementation
+
+- Implementation of <algorithm 1>
+- Implementation of <algorithm 2>
+
+5. Evaluation
 
 - Evaluation strategy
 - Evaluation results
 
-5. Conclusion
+6. Conclusion
 
 ## Important Literature
 
-- _Reinforcement Learning and Ensemble Learning (e.g. Adaboost) should be considered_
+- Marie Al-Ghossein, Talel Abdessalem, and Anthony BARRÉ. 2021. A Survey on Stream-Based Recommender Systems. ACM Comput. Surv. 54, 5, Article 104 (June 2022), 36 pages. https://doi.org/10.1145/3453443
+- Chuhan Wu, Fangzhao Wu, Yongfeng Huang, and Xing Xie. 2023. Personalized News Recommendation: Methods and Challenges. ACM Trans. Inf. Syst. 41, 1, Article 24 (January 2023), 50 pages. https://doi.org/10.1145/3530257
 
 ## Timetable
 
@@ -67,3 +72,7 @@ In conclusion, this thesis aims to enhance the utility of graphworks.ai by makin
 | 26.02.2024 - 31.03.2024 |       5w | 📝 Writing                                 | -           |
 | 01.04.2024 - 15.04.2024 |       2w | 📖 Proofreading                            | -           |
 | 15.04.2024              |        - | 🏁 Submission                              | -           |
+
+## Other
+
+- _Reinforcement Learning and Ensemble Learning (e.g. Adaboost) should be considered_ → Why?
