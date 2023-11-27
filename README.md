@@ -1,4 +1,4 @@
-# Implementing and Evaluating Adaptive News Recommenders to Optimize User Experience in graphworks.ai
+# Implementing and Evaluating Adaptive News Recommenders in graphworks.ai
 
 ## Abstract
 
