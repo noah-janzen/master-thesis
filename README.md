@@ -58,7 +58,7 @@ In conclusion, this thesis aims to enhance the utility of graphworks.ai by makin
 ## Timetable
 
 - 20 weeks
-- start: 04.11.2023
+- start: 04.12.2023
 - end: 22.04.2024
 
 | When?                   | Duration | What?                                      | Description |
