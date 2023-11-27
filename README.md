@@ -1,5 +1,7 @@
 # Implementing and Evaluating Adaptive News Recommenders in graphworks.ai
 
+This is the exposé of my master thesis. This document serves as a comprehensive guide to understand the structure, content, and purpose of my thesis project.
+
 ## Abstract
 
 This master thesis aims to address the challenge of information overload experienced by users of graphworks.ai, a web application providing business insights through AI-analyzed news articles. The application is utilized by professional clients to identify sales chances as well as supply chain risks. However, the sheer volume of news articles in combination with the lack of a recommendation system makes it difficult for users to find content to the user's specific needs, thereby diminishing the overall effectiveness of the tool.
@@ -56,23 +58,23 @@ In conclusion, this thesis aims to enhance the utility of graphworks.ai by makin
 ## Timetable
 
 - 20 weeks
-- start: 27.11.2023
-- end: 15.04.2024
+- start: 04.11.2023
+- end: 22.04.2024
 
 | When?                   | Duration | What?                                      | Description |
 | :---------------------- | -------: | :----------------------------------------- | :---------- |
-| 27.11.2023              |        - | 🚀 Enrollment                              | -           |
-| 27.11.2023 - 03.12.2023 |       1w | ✅ Research User Feedback Interface        | -           |
-| 04.12.2023 - 17.12.2023 |       2w | 🧠 Research Adaptive News Recommenders     | -           |
-| 18.12.2023 - 28.01.2023 |       6w | 🧑🏽‍💻 Implementation of two News Recommenders | -           |
-| 29.01.2023 - 04.02.2024 |       1w | 📦 Deployment                              | -           |
-| 05.02.2023 - 11.02.2024 |       1w | ⏳ _Buffer_                                | -           |
-| 12.02.2024 - 18.02.2024 |       1w | 👥 User Study                              | -           |
-| 19.02.2024 - 25.02.2024 |       1w | 📏 Evaluation of the User Study            | -           |
-| 26.02.2024 - 31.03.2024 |       5w | 📝 Writing                                 | -           |
-| 01.04.2024 - 15.04.2024 |       2w | 📖 Proofreading                            | -           |
-| 15.04.2024              |        - | 🏁 Submission                              | -           |
+| 04.12.2023              |        - | 🚀 Enrollment                              | -           |
+| 04.12.2023 - 10.12.2023 |       1w | ✅ Research User Feedback Interface        | -           |
+| 11.12.2023 - 24.12.2023 |       2w | 🧠 Research Adaptive News Recommenders     | -           |
+| 25.12.2023 - 04.02.2024 |       6w | 🧑🏽‍💻 Implementation of two News Recommenders | -           |
+| 05.02.2024 - 11.02.2024 |       1w | 📦 Deployment                              | -           |
+| 12.02.2024 - 18.02.2024 |       1w | ⏳ _Buffer_                                | -           |
+| 19.02.2024 - 25.02.2024 |       1w | 👥 User Study                              | -           |
+| 26.02.2024 - 03.03.2024 |       1w | 📏 Evaluation of the User Study            | -           |
+| 04.03.2024 - 07.04.2024 |       5w | 📝 Writing                                 | -           |
+| 08.04.2024 - 21.04.2024 |       2w | 📖 Proofreading                            | -           |
+| 22.04.2024              |        - | 🏁 Submission                              | -           |
 
 ## Other
 
-- _Reinforcement Learning and Ensemble Learning (e.g. Adaboost) should be considered_ → Why?
+- _Reinforcement Learning and Ensemble Learning (e.g. Adaboost) should be considered_
