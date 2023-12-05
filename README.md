@@ -56,6 +56,7 @@ In conclusion, this thesis aims to enhance the utility of graphworks.ai by makin
 
 - Marie Al-Ghossein, Talel Abdessalem, and Anthony BARRÉ. 2021. A Survey on Stream-Based Recommender Systems. ACM Comput. Surv. 54, 5, Article 104 (June 2022), 36 pages. https://doi.org/10.1145/3453443
 - Chuhan Wu, Fangzhao Wu, Yongfeng Huang, and Xing Xie. 2023. Personalized News Recommendation: Methods and Challenges. ACM Trans. Inf. Syst. 41, 1, Article 24 (January 2023), 50 pages. https://doi.org/10.1145/3530257
+- Raza, S., Ding, C. News recommender system: a review of recent progress, challenges, and opportunities. Artif Intell Rev 55, 749–800 (2022). https://doi.org/10.1007/s10462-021-10043-x
 
 ## Timetable
 
