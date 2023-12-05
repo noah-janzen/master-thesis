@@ -33,6 +33,7 @@ In conclusion, this thesis aims to enhance the utility of graphworks.ai by makin
 - Major challenges in news recommender systems and conventional solutions
 - Adaptive (news) recommender systems
 - Empirical analysis on feedback interfaces
+- Evaluating the quality of recommendations
 
 3. Architecture
 
