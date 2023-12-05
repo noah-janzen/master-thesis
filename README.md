@@ -30,6 +30,7 @@ In conclusion, this thesis aims to enhance the utility of graphworks.ai by makin
 
 2. State of the art
 
+- Major challenges in news recommender systems and conventional solutions
 - Adaptive (news) recommender systems
 - Empirical analysis on feedback interfaces
 
